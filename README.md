@@ -12,13 +12,15 @@ StreetView Pro allows you to quickly access Google Street View from any location
 
 ### Visual Guide
 
-| Cover Page | Key Features |
-|-------------|---------------|
-| ![Cover Page](docs/images/Cover%20Page.png) | ![Key Features](docs/images/Key%20Features.png) |
+### Visual Guide
 
-| Right Click | Toolbar, Message & Icon |
-|--------------|--------------------------|
-| ![Right Click](docs/images/Right%20Click.png) | ![Toolbar, Message & Icon](docs/images/Toolbar,%20message%20&%20icon.png) |
+![Cover Page](docs/images/Cover%20Page.png)
+
+![Key Features](docs/images/Key%20Features.png)
+
+![Right Click](docs/images/Right%20Click.png)
+
+![Toolbar, Message & Icon](docs/images/Toolbar,%20message%20&%20icon.png)
 
 ---
 
